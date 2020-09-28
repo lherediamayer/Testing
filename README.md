@@ -1,2 +1,2 @@
 # Testing
-Prueba de repositorio
+Prueba de repositorio de GitHub
